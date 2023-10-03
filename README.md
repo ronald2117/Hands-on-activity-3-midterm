@@ -1,4 +1,4 @@
-# Hands-on-activiy-3-midterm
+# Hands-on-activity-3-midterm
 1. Threenumbers.java
 2. DivisionCategory.java
 3. Triangle.java
