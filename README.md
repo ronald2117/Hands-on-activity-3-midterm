@@ -6,4 +6,4 @@
 5. ElectricBill.java
 6. Hangaroo.java
 
-Press "view code above to see the files"
+Press "View code" above to see the files.
